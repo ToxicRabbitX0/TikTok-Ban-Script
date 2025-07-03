@@ -10,7 +10,7 @@ mass reporting tool, tiktok account removal, report bot telegram, delete instagr
 # TikTok Ban Script
 
 
-# 🎯 REDREPO – Precision TikTok Elimination Tool
+# 🎯 REDREPO – Precision TikTok Elimination Script
 
 > — RedRepo Doctrine, 2025
 
