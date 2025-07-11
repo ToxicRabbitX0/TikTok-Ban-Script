@@ -8,7 +8,7 @@ mass reporting tool, tiktok account removal, report bot telegram, delete instagr
 
 <p align="center">
   <a href="https://t.me/RedRepo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/60ab4b88-03c4-4ef1-8a62-7881229b139b" alt="Join RedRepo on Telegram" width="100%">
+    <img src="https://github.com/user-attachments/assets/60ab4b88-03c4-4ef1-8a62-7881229b139b" alt="Join RedRepo on Telegram" width="77%">
   </a>
 </p>
 
